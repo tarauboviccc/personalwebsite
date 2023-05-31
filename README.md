@@ -1,5 +1,4 @@
 # Portfolio Personal Website
-<div align="center">
   <br />
   <br />
 
@@ -17,10 +16,8 @@
     Skills: Highlights my technical skills.
     Contact: Contains a contact form to get in touch with me.
 
-</div>
 
-# Dependencies
-<div align="center">
+<h2 align="center">Dependencies</h2>
 
 This project relies on the following dependencies:
 
@@ -29,9 +26,8 @@ This project relies on the following dependencies:
 - Ionicons: Used for icons.
 
 These dependencies are included via external links in the HTML file.
-</div>
 
-### Contact
+  <h2 align="center">Contact</h2>
 
-If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/tara-ubovic/).
+If you would like to connect with me, you can reach me at [LinkedIn](https://www.linkedin.com/in/tara-ubovic/).
 
