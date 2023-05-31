@@ -13,6 +13,23 @@
   - Contact: Contains a contact form to get in touch with me.
 
 
+<h2 align="center">Home Page Preview</h2>
+
+![Home Page](assets/photos/home-page-portfolio.png) 
+
+<h2 align="center">About Me Page Preview</h2>
+
+![Home Page](assets/photos/about-me-portfolio.png) 
+
+<h2 align="center">Projects Preview Page</h2>
+
+![Home Page](assets/photos/projects-portfolio.png) 
+
+<h2 align="center">Technical Skills Preview Page</h2>
+
+![Home Page](assets/photos/skills-portfolio.png) 
+
+
 <h2 align="center">Dependencies</h2>
 
 This project relies on the following dependencies:
