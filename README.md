@@ -1,8 +1,8 @@
 # Portfolio Personal Website
   <br />
-  This repository contains the code for my personal portfolio website. <br>
+  This repository contains the code for my personal portfolio website, that you can find on following link - [Page]((https://taraubovic.glitch.me/). <br>
   The website showcases my skills, projects, and provides more information about me. <br>
-  It is built using HTML, CSS, and JavaScript.
+  It is built using HTML, CSS, and JavaScript. <br>
   
   The main sections of the website are:
 
